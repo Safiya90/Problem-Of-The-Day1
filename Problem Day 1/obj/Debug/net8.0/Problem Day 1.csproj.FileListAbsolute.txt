@@ -1,0 +1,14 @@
+C:\Users\almus\OneDrive\سطح المكتب\C#Course\Problem Day 1\Problem Day 1\bin\Debug\net8.0\Problem Day 1.exe
+C:\Users\almus\OneDrive\سطح المكتب\C#Course\Problem Day 1\Problem Day 1\bin\Debug\net8.0\Problem Day 1.deps.json
+C:\Users\almus\OneDrive\سطح المكتب\C#Course\Problem Day 1\Problem Day 1\bin\Debug\net8.0\Problem Day 1.runtimeconfig.json
+C:\Users\almus\OneDrive\سطح المكتب\C#Course\Problem Day 1\Problem Day 1\bin\Debug\net8.0\Problem Day 1.dll
+C:\Users\almus\OneDrive\سطح المكتب\C#Course\Problem Day 1\Problem Day 1\bin\Debug\net8.0\Problem Day 1.pdb
+C:\Users\almus\OneDrive\سطح المكتب\C#Course\Problem Day 1\Problem Day 1\obj\Debug\net8.0\Problem Day 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\almus\OneDrive\سطح المكتب\C#Course\Problem Day 1\Problem Day 1\obj\Debug\net8.0\Problem Day 1.AssemblyInfoInputs.cache
+C:\Users\almus\OneDrive\سطح المكتب\C#Course\Problem Day 1\Problem Day 1\obj\Debug\net8.0\Problem Day 1.AssemblyInfo.cs
+C:\Users\almus\OneDrive\سطح المكتب\C#Course\Problem Day 1\Problem Day 1\obj\Debug\net8.0\Problem Day 1.csproj.CoreCompileInputs.cache
+C:\Users\almus\OneDrive\سطح المكتب\C#Course\Problem Day 1\Problem Day 1\obj\Debug\net8.0\Problem Day 1.dll
+C:\Users\almus\OneDrive\سطح المكتب\C#Course\Problem Day 1\Problem Day 1\obj\Debug\net8.0\refint\Problem Day 1.dll
+C:\Users\almus\OneDrive\سطح المكتب\C#Course\Problem Day 1\Problem Day 1\obj\Debug\net8.0\Problem Day 1.pdb
+C:\Users\almus\OneDrive\سطح المكتب\C#Course\Problem Day 1\Problem Day 1\obj\Debug\net8.0\Problem Day 1.genruntimeconfig.cache
+C:\Users\almus\OneDrive\سطح المكتب\C#Course\Problem Day 1\Problem Day 1\obj\Debug\net8.0\ref\Problem Day 1.dll
